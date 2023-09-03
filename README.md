@@ -1,16 +1,43 @@
-### Heyyyyyy Im Kristen 🫶
-![](https://komarev.com/ghpvc/?username=kserf947&label=Kristens's+Proflie+Views&color=blueviolet&style=for-the-badge)
+<h1 align="center">
 
-Im a Mother of 2👩‍👧‍👦, Student👩‍💻,Fulltime worker and hopfully oneday have a sucessful career in Computers💻.
-- 🔭 I’m currently working on expanding my knowledge of computers and coding
+ Hi ! My name is Kristen
+<img style="float: right;" src="7xu2id.gif">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+![Profile views](https://komarev.com/ghpvc/?username=kserf947&label=Kristens's+Proflie+Views&color=blueviolet&style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kserf947&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  </div>
+
+**_<subscript>Im a Student Majoring in Computer Science, A Mother of 2👩‍👧‍👦, I Currently work fulltime as a Bartender and hopfully oneday will have a sucessful career in Computers💻_**
+
+<div align="left">
+-🔭 I’m currently working on expanding my knowledge of computers and coding
 - 🌱 I’m currently learning anything and everything about computers trying to figure out which path best suits me for a future career.
-- 👯 I’m looking to collaborate on pretty much anything that improves technology or serves a functional purpose. 
+- 👯 I’m looking to collaborate on pretty much anything that improves technology or serves a functional purpose.
 - 💬 Ask me about what made me interested in computers and why I decided to make a career out of it.
-- 📫 How to reach me: K_serf@outlook.com
+- 📫 How to reach me: <K_serf@outlook.com>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Before going back to school I had a career in Lawenforcement for 7 Years.
-  <br  />
-<a href="https://github.com/kserf947/github-readme-stats">
-  <img height=200 align="center" src />
-![kserf947's GitHub stats](https://github-readme-stats.vercel.app/api?username=kserf947&show_icons=true&theme=radical)
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kserf947&layout=compact&langs_count=8&card_width=320&theme=radical" />
+
